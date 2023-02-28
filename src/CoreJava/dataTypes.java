@@ -11,6 +11,8 @@ public class dataTypes {
 		boolean s = true;
 		
 		System.out.println(num );
+		System.out.println("Hello");
+		System.out.println("Hello2");
 		
 		
 		
